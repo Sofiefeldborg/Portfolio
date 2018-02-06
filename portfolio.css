@@ -1,0 +1,591 @@
+*{ text-align: center;
+
+}
+
+body  {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+
+
+.circle1 {
+  width: 600px;
+  height: 600px;
+  border-radius: 50%;
+  line-height: 500px;
+  text-align: center;
+  background: #9e5e56;
+  position:absolute;
+  margin-left: 490px;
+  margin-top: 883px;
+  z-index: 1;
+}
+
+
+
+.circle2 {
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  line-height: 500px;
+  text-align: center;
+  background: #9e5e56;
+  position:absolute;
+  margin-left: 1000px;
+  margin-top: 1583px;
+  z-index: 1;
+}
+
+
+.personligt{
+  margin-top: 965px;
+  margin-right: 300px;
+  color: #efebe1;
+  font-size: 23px;
+  font-family: arial;
+  position: relative;
+  z-index: 2;
+}
+
+.personligtinfo{
+  margin-top: px;
+  margin-right: 300px;
+  color: #efebe1;
+  font-size: 12.5px;
+  font-family: arial;
+  line-height: 19px;
+  position: relative;
+  z-index: 2;
+}
+
+.fed{
+  font-size: 18px;
+}
+
+
+
+.drømme{
+  margin-top: 315px;
+  margin-left: 600px;
+  color: #efebe1;
+  font-size: 23px;
+  font-family: arial;
+  z-index: 2;
+  position: relative;
+}
+
+.drømmeinfo{
+  margin-top: px;
+  margin-left: 600px;
+  color: #efebe1;
+  font-size: 12.5px;
+  font-family: arial;
+  line-height: 19px;
+  z-index: 2;
+  position: relative;
+}
+
+
+
+
+
+.pil img{
+  margin-left: 83px;
+  margin-top: 690px;
+  position: absolute;
+
+}
+
+
+.menu-container {
+  float: right;
+}
+
+.menu-container a {
+  float: left;
+}
+
+.index  {
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 5809px;
+}
+
+
+.baggrund img{
+  margin-top: 270px;
+  margin-left: -60px;
+  position: absolute;
+}
+
+
+
+.portfolio{
+  background-image: url("....");
+  background-color: rgba(105, 71, 20, 0.10);
+  background-size: cover
+}
+
+.kontakt{
+  background-image: url("media/telefon.png");
+  background-color: rgba(105, 71, 20, 0.10);
+  background-repeat: no-repeat;
+  margin:auto;
+  width: 100%;
+  height: 100%;
+
+}
+
+
+.portraitLayout {
+  width: 500px;
+  height: 500px;
+}
+
+.portfoliobilleder{
+  text-align: center;
+  width: 100%;
+  float: left;
+}
+
+.container {
+  width: 1530px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.blomme{
+  background-image: url('media/blomme2.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+}
+.blomme:hover{
+  background-image: url('media/blommetekst.png');
+}
+
+
+.magasin{
+  background-image: url('media/magasin.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  height: 500px;
+  width: 530px;
+}
+.magasin:hover{
+  background-image: url('media/magasintekst.png');
+}
+
+
+.portrat{
+  background-image: url('media/portrat.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+}
+.portrat:hover{
+  background-image: url('media/portrattekst.png');
+}
+
+
+.oje{
+  background-image: url('media/oje.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  margin-left: 7px;
+}
+.oje:hover{
+  background-image: url('media/ojetekst.png');
+}
+
+
+.kys{
+  background-image: url('media/kys.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  margin-left: -23px;
+}
+.kys:hover{
+  background-image: url('media/kystekst.png');
+}
+
+
+.krokodille{
+  background-image: url('media/krokodille.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+}
+.krokodille:hover{
+  background-image: url('media/krokodilletekst.png');
+}
+
+
+.logo2{
+  background-image: url('media/logo.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  margin-left: 14px;
+}
+.logo2:hover{
+  background-image: url('media/logotekst.png');
+}
+
+
+.kaffe{
+  background-image: url('media/kaffe.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  margin-left: 0px;
+  margin-top: -50px;
+}
+.kaffe:hover{
+  background-image: url('media/kaffetekst.png');
+}
+
+
+.tiger{
+  background-image: url('media/tiger.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  height: 515px;
+  width:  480px;
+  margin-top: -15px;
+}
+.tiger:hover{
+  background-image: url('media/tigertekst.png');
+}
+
+.skov-container {
+  height: 400px;
+}
+
+.sommerani{
+  background-image: url('media/sommerani.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  margin-left: 30px;
+
+}
+.sommerani:hover{
+  background-image: url('media/sommeranitekst.png');
+}
+
+
+.sommerfugl{
+  background-image: url('media/sommerf.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  height: 450px;
+  width:  500px;
+  margin-top: 20px;
+  margin-left: -10px;
+}
+.sommerfugl:hover{
+  background-image: url('media/sommerftekst.png');
+}
+
+
+.abe{
+  background-image: url('media/abe.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  margin-top: 40px;
+}
+.abe:hover{
+  background-image: url('media/abetekst.png');
+}
+
+
+.bi{
+  background-image: url('media/bi.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  margin-top: 120px;
+}
+.bi:hover{
+  background-image: url('media/bitekst.png');
+}
+
+
+.murdertypografi{
+  background-image: url('media/murder.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  margin-left: -45px;
+}
+.murdertypografi:hover{
+  background-image: url('media/murdertekst.png');
+}
+
+
+.blomst{
+  background-image: url('media/blomst3.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  margin-top: 120px;
+
+}
+.blomst:hover{
+  background-image: url('media/blomst3tekst.png');
+}
+
+
+.modemagasin{
+  background-image: url('media/mode2.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  margin-left: 20px;
+}
+.modemagasin:hover{
+  background-image: url('media/mode2tekst.png');
+}
+
+
+.dame{
+  background-image: url('media/dame.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  margin-left: -20px;
+}
+.dame:hover{
+  background-image: url('media/dametekst.png');
+}
+
+
+.wildautumn{
+  background-image: url('media/wild.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  margin-left: 10px;
+}
+.wildautumn:hover{
+  background-image: url('media/wildtekst.png');
+}
+
+.ur{
+  background-image: url('media/ur.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  height: 500px;
+  width: 500px;
+  margin-left: 25px;
+}
+
+.ur{
+  background-image: url('media/bænk.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  height: 500px;
+  width: 500px;
+  margin-left: 25px;
+}
+
+
+.ringtilfortiden{
+  background-image: url('media/ringtil.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  height: 500px;
+  width:  500px;
+  margin-left: 500px;
+  margin-top: 50px;
+
+}
+.ringtilfortiden:hover{
+  background-image: url('media/ringtiltekst.png');
+}
+
+
+.easycare{
+  background-image: url('media/easycare.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  height: 500px;
+  width:  500px;
+}
+
+
+.synopsis{
+  background-image: url('media/synopsis.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  height: 500px;
+  width:  500px;
+  margin-left: 10px;
+}
+.synopsis:hover{
+  background-image: url('media/synopsistekst.png');
+  background-repeat: no-repeat;
+  float: left;
+  background-size: contain;
+  height: 500px;
+  width:  500px;
+  margin-left: 10px;
+}
+
+
+.sofa{
+  background-image: url('media/sofa.png');
+  background-repeat: no-repeat;
+  float: right;
+  background-size: contain;
+  height: 900px;
+  width:  1500px;
+  margin-top: 0px;
+}
+
+
+
+
+
+.portfoliobilleder{
+  width: 100%;
+  float: left;
+  text-align: center;
+  margin-top: 125px;
+}
+
+
+h1 {
+  float: left;
+  margin-left: 120px;
+  margin-top: 21px;
+  position: absolute;
+  font-family: 'Great Vibes';
+  font-size: 44px;
+  color: #4C2A25;
+}
+
+
+h2{
+  font-size: 60px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  color: #4C2A25;
+  margin-top: -50px;
+}
+
+.logo {
+  float: left;
+}
+
+.logo img{
+  height: 70px;
+  width: 70px;
+}
+
+
+
+
+
+.sprite{
+  position: absolute;
+}
+
+
+
+ul li {
+  float: right;
+  width: 140px;
+  list-style-type: none;
+}
+
+ul li a{
+  text-decoration: none;
+  color: #4C2A25;
+  font-family: 'Great Vibes';
+  margin-right: 100px;
+}
+
+a{
+  /* float:left; */
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+
+
+.profilbillede img{
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 240px;
+  margin-top: 120px;
+  height: 270px;
+  width:  340px;
+}
+
+
+.kontaktinfo{
+  background-repeat: no-repeat;
+  float: right;
+  font-size: 20px;
+  font-style: arial;
+  background-size: contain;
+  margin-top: 0px;
+  height: 535px;
+  width:  500px;
+  margin-right: 572px;
+
+}
+
+a{
+  color: #962718;
+  margin-right: -50px;
+}
+
+#Kontakttekst{
+  padding: 0;
+  margin-left:-70px;
+}
+
+.kontaktinfo p{
+  text-align: center !important;
+}
+
+
+.gulblomst {
+  float: left;
+  margin-top: 2800px;
+  margin-left: 400px;
+}
+
+footer{
+  background-color: #c6b298;
+  height: 255px;
+  width:  100%;
+  float: left;
+
+}
+
+footer a {
+  float: left;
+}
+
+footer ul{
+  display: inline-block;
+  margin: 0 auto;
+}
